@@ -1,0 +1,15 @@
+3. Folder Operations
+Create Folder
+List Folder
+Remove Folder
+
+Crear una aplicacion de consola que me permita crear, listar y remover un folder
+para la opcion de Listar, debe diferenciar si los items si son folder o archivos.
+
+>create_folder <path> <folder_name>
+>delete_folder <full_path>
+>list_folder <full_path>
+
+a. Win32API: C++/Pascal: 21541332 Alejandro Caraccioli
+
+https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createdirectorya
